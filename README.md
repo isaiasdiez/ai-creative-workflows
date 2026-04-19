@@ -37,6 +37,9 @@ Speed + Creativity + Systems
 
 I focus on pushing the limits of AI tools while maintaining strong storytelling and visual quality.
 
+## Real Project Examples
+
+- [JustSmart Commercial](./justsmart-commercial.md)
 ## Goal
 
 To develop repeatable AI workflows that enable high-quality, scalable content production.

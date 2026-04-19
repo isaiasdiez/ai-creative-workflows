@@ -26,5 +26,13 @@ Produce high-quality commercial videos for an energy company (Swag) through a Ge
 ## Result
 Delivered two 50-second commercial pieces for a European client, aligned with agency standards and brand expectations.
 
-## Example
+## Visual Examples
+
+- Project Video 1:
+https://youtu.be/GcsZBll4vXg
+
+- Project Video 2:
+https://youtu.be/sY1NFGLFC6o
+
+- Portfolio:
 https://www.behance.net/isaiasquispe

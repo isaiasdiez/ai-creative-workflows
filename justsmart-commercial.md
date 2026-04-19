@@ -27,8 +27,14 @@ Produced multiple commercial videos used for digital campaigns and social media.
 
 ## Visual Examples
 
-- Project Video:
+- Project Video 1:
 https://youtu.be/SrFs5J5WuXs?si=2jii83BdF-WRjd4-
+
+- Project Video 2:
+https://youtu.be/TIiEsKUp784?si=6e-3Xypz-9nR74Bj
+
+- Poject Video 3:
+https://youtu.be/MFfGpdGq1Eg?si=iqUZcPHC40Hm8xt5
 
 - Portfolio:
 https://www.behance.net/isaiasquispe

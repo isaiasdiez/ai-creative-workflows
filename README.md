@@ -46,3 +46,5 @@ To develop repeatable AI workflows that enable high-quality, scalable content pr
 - [JustSmart Commercial](./justsmart-commercial.md)
 
 - [Snook Commercial](./snook-commercial.md)
+
+- [The Last Observer](./the-last-observer.md)

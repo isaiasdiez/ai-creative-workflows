@@ -36,5 +36,10 @@ Making AI-generated content feel natural and not artificial.
 ## Result
 A high-performing UGC-style video created with AI, aligned with modern social media content strategies.
 
-## Example
+## Visual Examples
+
+- Project Video:
+https://youtube.com/shorts/xSV3HGeOvJ8?feature=share
+
+- Portfolio:
 https://www.behance.net/isaiasquispe

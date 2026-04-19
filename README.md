@@ -4,6 +4,13 @@ AI Creative Producer focused on storytelling, generative media, and scalable con
 
 ---
 
+## Portfolio
+
+- https://www.behance.net/isaiasquispe
+- https://youtube.com/@isaiasuniverso
+
+---
+
 ## What I Do
 
 I create AI-driven video and visual content by combining storytelling, prompt engineering, and fast iteration workflows.

@@ -43,3 +43,5 @@ I focus on pushing the limits of AI tools while maintaining strong storytelling 
 ## Goal
 
 To develop repeatable AI workflows that enable high-quality, scalable content production.
+
+- [Snook Commercial](./snook-commercial.md)

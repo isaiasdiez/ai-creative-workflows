@@ -48,3 +48,5 @@ To develop repeatable AI workflows that enable high-quality, scalable content pr
 - [Snook Commercial](./snook-commercial.md)
 
 - [The Last Observer](./the-last-observer.md)
+
+- [AI UGC Content](./ai-ugc-content.md)
